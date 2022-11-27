@@ -1,0 +1,30 @@
+{
+    "sourceFile": ".gitignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1669538696324,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1669538709086,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n-data/caltech_birds2010/*\n+data/*\n \n \n tensorflow tutorial for ustc\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1669538716344,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,1 @@\n-data/*\n-\n-\n-tensorflow tutorial for ustc\n\\ No newline at end of file\n+data/*\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1669539269144,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,2 @@\n-data/*\n\\ No newline at end of file\n+data/*\n+examples/logs/*\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1669538696324,
+            "name": "Commit-0",
+            "content": "data/caltech_birds2010/*\n\n\ntensorflow tutorial for ustc"
+        }
+    ]
+}
